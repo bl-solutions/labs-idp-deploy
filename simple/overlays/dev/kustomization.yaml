@@ -8,4 +8,4 @@ namePrefix: dev-
 
 images:
 - name: ghcr.io/bl-solutions/labs-idp-app
-  newTag: v1.0.0
+  newTag: v1.0.1
