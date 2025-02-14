@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: simple
+  labels:
+    app: simple
+spec:
+  containers:
+  - name: simple
+    image: ghcr.io/bl-solutions/labs-idp-app:v1.0.0
